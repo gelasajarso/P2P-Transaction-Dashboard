@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "sender": "Alice",
+    "receiver": "Bob",
+    "amount": 120.5,
+    "status": "Completed",
+    "timestamp": "2025-04-09T08:30:00Z"
+  },
+  {
+    "id": 2,
+    "sender": "Charlie",
+    "receiver": "Dave",
+    "amount": 75.0,
+    "status": "Pending",
+    "timestamp": "2025-04-09T09:00:00Z"
+  },
+  {
+    "id": 3,
+    "sender": "Eve",
+    "receiver": "Frank",
+    "amount": 200.0,
+    "status": "Failed",
+    "timestamp": "2025-04-09T09:30:00Z"
+  }
+]
